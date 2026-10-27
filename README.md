@@ -1,1 +1,1 @@
-http://github.com/ferdowsi
+to download go to http://github.com/ferdowsi
